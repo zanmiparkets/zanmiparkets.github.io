@@ -2822,7 +2822,7 @@
 		/* Header */
 
 			#header {
-				background-attachment: scroll,									scroll;
+				background-attachment: scroll,									fixed;
 				background-image: url("images/top-1600.svg"), url("../../images/header.jpg");
 				background-size: 1600px 230px,					auto,							cover;
 				padding: 6em 0 12em 0;
