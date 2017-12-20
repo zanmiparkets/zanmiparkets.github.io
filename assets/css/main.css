@@ -2226,7 +2226,7 @@
 				padding-left: 0;
 			}
 
-			ul.icons li a, ul.icons li span {
+			ul.icons li a, ul.icons li span, ul.icons li img{
 				-moz-transition: background-color 0.2s ease-in-out;
 				-webkit-transition: background-color 0.2s ease-in-out;
 				-ms-transition: background-color 0.2s ease-in-out;
@@ -2238,6 +2238,9 @@
 				line-height: 2em;
 				text-align: center;
 				width: 2em;
+			}
+			ul.icons li img{
+				vertical-align: bottom;
 			}
 
 				ul.icons li a:hover, ul.icons li span:hover {
