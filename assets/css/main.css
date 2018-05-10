@@ -1824,7 +1824,7 @@
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #4eb980;
+		color: #0960BD;
 		text-decoration: none;
 	}
 
@@ -2043,7 +2043,7 @@
 		select:focus,
 		textarea:focus {
 			background: rgba(224, 224, 224, 0.15);
-			border-color: #4eb980;
+			border-color: #0960BD;
 		}
 
 	input[type="text"],
@@ -2547,7 +2547,7 @@
 
 			#header a:hover {
 				border-bottom-color: transparent;
-				color: #4eb980;
+				color: #0960BD;
 			}
 
 		#header strong, #header b {
@@ -2567,7 +2567,7 @@
 		}
 
 		#header .logo {
-			background: #4eb980;
+			background: #0960BD;
 			border-radius: 100%;
 			color: #ffffff;
 			cursor: default;
@@ -2600,7 +2600,7 @@
 
 	#footer {
 		background-attachment: scroll;
-		background-color: #4eb980;
+		background-color: #0960BD;
 		background-image: url("images/bottom-3200.svg");
 		background-position: top center;
 		background-repeat: repeat-x;
@@ -2651,7 +2651,7 @@
 		#footer .button {
 			background: #ffffff;
 			box-shadow: inset 0 0 0 1px #ffffff;
-			color: #4eb980;
+			color: #0960BD;
 		}
 
 			#footer input[type="submit"]:hover,
